@@ -1,2 +1,2 @@
 # Scudbot
-Discord bot
+Basic Discord bot which will ultimately 
