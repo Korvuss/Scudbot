@@ -1,0 +1,2 @@
+# Scudbot
+Discord bot
