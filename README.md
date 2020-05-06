@@ -1,2 +1,2 @@
 # Scudbot
-Basic Discord bot which will ultimately 
+Basic Discord bot, eventually to link music based on user requests
